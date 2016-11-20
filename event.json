@@ -1,29 +1,57 @@
 [{
 	"picto": "o",
-	"title": "CONCERT DE NOËL",
-	"subtitle": "Par la Maitrise de la Cathédrale de Nantes",
-	"date": "samedi 17 décembre 2016",
-	"hour": "à 19h",
-	"location": "CATHÉDRALE DE NANTES"
+	"title": "SPECTACLE L’ODYSSÉE DES RÊVES",
+	"subtitle": "Spectacle lumineux projeté sur la façade de la Cathédrale",
+	"date": "Du vendredi 23 au vendredi 30 décembre 2016",
+	"hour": "De 19h30 à 21h30",
+	"location": "Parvis de la Cathédrale de Nantes"
 }, {
 	"picto": "o",
 	"title": "REDIFFUSION CONCERT DE NOËL",
 	"subtitle": "Chaque soir et en amont du premier spectacle",
-	"date": "du vendredi 23 au vendredi 30 Décembre 2016",
-	"hour": "de 18h30 à 19h15 suivi du carillon jusqu'à 19h30",
-	"location": "CATHÉDRALE DE NANTES"
+	"date": "Du vendredi 23 au vendredi 30 décembre 2016",
+	"hour": "De 18h30 à 19h15 suivi du carillon jusqu’à 19h30",
+	"location": "Parvis de la Cathédrale de Nantes"
 }, {
 	"picto": "n",
-	"title": "EXPOSITION L’ODYSSÉE DES OISEAUX",
-	"subtitle": "Reproduction des œuvres d'Alain Thomas",
-	"date": "du vendredi 23 au vendredi 30 Décembre 2016",
-	"hour": "à 19h",
-	"location": "JARDIN DES PLANTES - Suivez le parcours lumineux (gobos) entre le Jardin des plantes et la Cathédrale !"
+	"title": "EXPOSITION L’ODYSSÉE DES RÊVES",
+	"subtitle": "Exposition des œuvres d’Alain Thomas (peintures, fresques et tondos)",
+	"date": "Du lundi 5 au vendredi 30 décembre 2016",
+	"hour": "De 08h30 à 20h00",
+	"location": "Jardin des Plantes, Rue Stanislas Baudry, 44000 Nantes"
 }, {
 	"picto": "n",
-	"title": "AUTRES EXPOSITIONS",
-	"subtitle": "Peintures originales d'Alain Thomas",
-	"date": "du vendredi 23 au vendredi 30 Décembre 2016",
-	"hour": "à 19h",
-	"location": "DANS LES LOCAUX DU CRÉDIT MUTUEL - Agence Cathédrale"
+	"title": "Parcours lumineux \"Goes before optics\"",
+	"subtitle": "Déambulation nocturne",
+	"date": "Du vendredi 23 au vendredi 30 décembre 2016",
+	"hour": "De 18h à 19h30",
+	"location": "Jardin des Plantes, Rue Stanislas Baudry, 44000 Nantes"
+}, {
+	"picto": "n",
+	"title": "EXPOSITION DE PEINTURES ORIGINALES ET FINE ART",
+	"subtitle": "Par Alain Thomas",
+	"date": "Du mardi 13 décembre 2016 au samedi 7 janvier 2017",
+	"hour": "De 9h00 à 12H00, et de 15h00 à 18h30",
+	"location": "Crédit Mutuel, 3 place Saint-Pierre, 44000 Nantes"
+}, {
+	"picto": "n",
+	"title": "EXPOSITION DE PEINTURES ORIGINALES ET FINE ART",
+	"subtitle": "Par Alain Thomas",
+	"date": "Du samedi 3 décembre 2016 au jeudi 5 janvier 2017",
+	"hour": "-",
+	"location": "Hôtel Radisson Blu, 6 place Aristide Briand, 44000 Nantes"
+}, {
+	"picto": "n",
+	"title": "EXPOSITION DE PEINTURES ORIGINALES ET FINE ART",
+	"subtitle": "Par Alain Thomas",
+	"date": "Du vendredi 16 décembre 2016 au samedi 28 janvier 2017",
+	"hour": "De 12h00 à 18H30",
+	"location": "Passage Sainte-Croix, 9 rue de la Baclerie, 44000 Nantes"
+}, {
+	"picto": "n",
+	"title": "EXPOSITION DE PEINTURES ORIGINALES ET FINE ART",
+	"subtitle": "Par Alain Thomas",
+	"date": "Du mardi 15 novembre 2016 au samedi 28 janvier 2017",
+	"hour": "De 9h40 à 18H30",
+	"location": "L’éclat de verre, 4 rue du roi Albert, 44000 Nantes"
 }]
