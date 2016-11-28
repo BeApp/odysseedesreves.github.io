@@ -4,24 +4,24 @@
 	"subtitle": "Spectacle lumineux projeté sur la façade de la Cathédrale",
 	"date": "Du vendredi 23 au vendredi 30 décembre 2016",
 	"hour": "De 19h30 à 21h30",
-	"location": "Parvis de la Cathédrale de Nantes"
+	"location": "Parvis de la Cathédrale de Nantes - Spectacle GRATUIT"
 }, {
 	"picto": "n",
 	"title": "REDIFFUSION CONCERT DE NOËL",
-	"subtitle": "Chaque soir et en amont du premier spectacle",
+	"subtitle": "Par la Maitrise de la Cathédrale de Nantes. Chaque soir et en amont du premier spectacle",
 	"date": "Du vendredi 23 au vendredi 30 décembre 2016",
 	"hour": "De 18h30 à 19h15 suivi du carillon jusqu’à 19h30",
 	"location": "Parvis de la Cathédrale de Nantes"
 }, {
 	"picto": "o",
-	"title": "EXPOSITION L’ODYSSÉE DES RÊVES",
+	"title": "EXPOSITION L'ODYSSÉE DES RÊVES",
 	"subtitle": "Exposition des œuvres d’Alain Thomas (peintures, fresques et tondos)",
 	"date": "Du lundi 5 au vendredi 30 décembre 2016",
 	"hour": "De 08h30 à 20h00",
 	"location": "Jardin des Plantes, Rue Stanislas Baudry, 44000 Nantes"
 }, {
 	"picto": "o",
-	"title": "Parcours lumineux \"Goes before optics\"",
+	"title": "PARCOURS LUMINEUX \"GOES BEFORE OPTICS\"",
 	"subtitle": "Déambulation nocturne",
 	"date": "Du vendredi 23 au vendredi 30 décembre 2016",
 	"hour": "De 18h à 19h30",
@@ -38,20 +38,27 @@
 	"title": "EXPOSITION DE PEINTURES ORIGINALES ET FINE ART",
 	"subtitle": "Par Alain Thomas",
 	"date": "Du samedi 3 décembre 2016 au jeudi 5 janvier 2017",
-	"hour": "-",
+	"hour": "De 10h00 à 19h00",
 	"location": "Hôtel Radisson Blu, 6 place Aristide Briand, 44000 Nantes"
 }, {
 	"picto": "o",
-	"title": "EXPOSITION DE PEINTURES ORIGINALES ET FINE ART",
+	"title": "EXPOSITION \"SUR LA TERRE COMME AU CIEL\"",
 	"subtitle": "Par Alain Thomas",
 	"date": "Du vendredi 16 décembre 2016 au samedi 28 janvier 2017",
 	"hour": "De 12h00 à 18H30",
 	"location": "Passage Sainte-Croix, 9 rue de la Baclerie, 44000 Nantes"
 }, {
-	"picto": "o",
-	"title": "EXPOSITION DE PEINTURES ORIGINALES ET FINE ART",
-	"subtitle": "Par Alain Thomas",
-	"date": "Du mardi 15 novembre 2016 au samedi 28 janvier 2017",
-	"hour": "De 9h40 à 18H30",
-	"location": "L’éclat de verre, 4 rue du roi Albert, 44000 Nantes"
+  "picto": "o",
+  "title": "EXPOSITION DE PEINTURES ORIGINALES ET FINE ART",
+  "subtitle": "Par Alain Thomas",
+  "date": "Du mardi 15 novembre 2016 au samedi 28 janvier 2017",
+  "hour": "De 10h00 à 18H30",
+  "location": "L’éclat de verre, 4 rue du roi Albert, 44000 Nantes"
+}, {
+  "picto": "n",
+  "title": "POINT SOUVENIRS L'ODYSSEE DES REVES",
+  "subtitle": "(DVD, affiche, livres, carteries)",
+  "date": "Du 23 au 30 décembre 2016",
+  "hour": "De 10h00 à 21H00",
+  "location": "Librairie Siloe Lis, 3 rue du Général Leclerc de Hauteclocque - 44000 Nantes"
 }]
