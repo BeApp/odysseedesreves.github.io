@@ -11,8 +11,8 @@
 	"schedule": "De 18h00 à 21h30 (toutes les 15 minutes)",
 	"duration": "3 minutes",
 	"price": "Gratuit",
-	"chapeau": "Alain Thomas \"relooke\" le museum d'histoire Naturelle",
-	"description": "Le Toucan de l'est et du Sud se retrouvent pour nous transporter à travers l'univers d'Alain Thomas dans de joyeuses voltiges.",
+	"chapeau": "Alain Thomas \"relooke\" le muséum d'histoire Naturelle",
+	"description": "Le Toucan de l'est et du sud se retrouvent pour nous transporter à travers l'univers d'Alain Thomas dans de joyeuses voltiges.",
 	"pictoName": "picto_event_blue",
 	"colorName": "softBlue",
 	"visibleAtNight": true
@@ -66,7 +66,7 @@
 	"duration": "12 minutes",
 	"price": "Gratuit",
 	"chapeau": "Cette année, nous plongerons à nouveau dans l’univers onirique et poétique d'Alain Thomas sur le thème du Noël Slave.",
-	"description": "Une rencontre entre le toucan du sud et le toucan de l'est, des forêts d’arbres enneigés, des couleurs chatoyantes, des collines habitées d’oiseaux de feu et des habitants de contrées mythiques... Cette année encore Alain Thomas et Spectacular nous propose un spectacle magique.",
+	"description": "Une rencontre entre le toucan du sud et le toucan de l'est, des forêts d’arbres enneigés, des couleurs chatoyantes, des collines habitées d’oiseaux de feu et des habitants de contrées mythiques... Cette année encore Alain Thomas et Spectaculaire nous propose un spectacle magique.",
 	"pictoName": "picto_event_red",
 	"colorName": "warmPink",
 	"visibleAtNight": true
