@@ -1,7 +1,7 @@
 [{
 	"identifier": 0,
-	"latitude": 47.227600,
-	"longitude": -1.618730,
+	"latitude": 47.212517,
+	"longitude": -1.564747,
 	"title": "Illuminations au Muséum d'histoire naturelle",
 	"type": "Illuminations",
 	"address": "12 Rue Voltaire, 44000 Nantes",
@@ -18,8 +18,8 @@
 	"visibleAtNight": true
 }, {
 	"identifier": 1,
-	"latitude": 47.227600,
-	"longitude": -1.618730,
+	"latitude": 47.218421,
+	"longitude": -1.549967,
 	"title": "La fresque de la \"Nativité\"",
 	"type": "Fresque",
 	"address": "Place Saint-Pierre, 44000 Nantes\nChapelle du Sacré Coeur",
@@ -36,8 +36,9 @@
 	"visibleAtNight": false
 }, {
 	"identifier": 2,
-	"latitude": 47.227600,
-	"longitude": -1.618730,	"title": "La fresque du \"Toucan à bec caréné\"",
+	"latitude": 47.217474,
+	"longitude": -1.553955,	
+	"title": "La fresque du \"Toucan à bec caréné\"",
 	"type": "Fresque",
 	"address": "Rue Fanny-Pécot, 44000 Nantes",
 	"pictures": ["https://odysseedesreves.beapp.fr/photo/event_yellow_1.jpg"],
@@ -53,8 +54,8 @@
 	"visibleAtNight": false
 }, {
 	"identifier": 3,
-	"latitude": 47.230442,
-	"longitude": -1.629093,
+	"latitude": 47.218182,
+	"longitude": -1.551227,
 	"title": "Illuminations sur la cathédrale",
 	"type": "Illuminations",
 	"address": "Place Saint-Pierre, 44000 Nantes",
